@@ -1,0 +1,34 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+button{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button-type{
+    text-align: center;
+    background-color: aqua;
+   margin: 10px;
+   width: 100%;
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+    display: flex;
+}
